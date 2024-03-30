@@ -1,2 +1,2 @@
 /                      https://github.com/iamsasikumar1993/livepersonSpec/ 302
-/LPMessagingSDK/*               https://cdn.jsdelivr.net/iamsasikumar1993/livepersonSpec/:splat
+/Specs/*               https://cdn.jsdelivr.net/iamsasikumar1993/livepersonSpec/:splat
