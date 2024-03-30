@@ -34,7 +34,7 @@ STDERR.puts "Total pod count: #{pods.count}"
 STDERR.puts "Total podspec count: #{shards.values.map(&:values).flatten.count}"
 
 # get a list of all deprecated pods
-deprecated_podspecs = Dir['Specs/**/*.podspec.json'].sort.select do |podspec_path|
+deprecated_podspecs = Dir['LPMessagingSDK/**/*.podspec.json'].sort.select do |podspec_path|
   podspec = Pod::Specification.from_file(podspec_path)
   podspec.deprecated?
 end

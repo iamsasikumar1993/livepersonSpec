@@ -1,2 +1,2 @@
-/                      https://blog.cocoapods.org/CocoaPods-1.7.2/ 302
+/                      https://github.com/iamsasikumar1993/livepersonSpec/ 302
 /LPMessagingSDK/*               https://cdn.jsdelivr.net/iamsasikumar1993/livepersonSpec/:splat
